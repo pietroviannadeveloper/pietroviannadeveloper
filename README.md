@@ -20,7 +20,7 @@
 
   <br/>
 ### **🐙 Meus Repositórios**  
-[![GitHub](https://img.shields.io/badge/Meu_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pietroviannadeveloper)  
+[![GitHub](https://img.shields.io/badge/Meu_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pietroviannadeveloper?tab=repositories)  
 <br/>
 ### **🤝 Conecte-se comigo**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrovianna/)
