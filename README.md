@@ -11,8 +11,6 @@
 - 🌱 Sempre aprendendo mais sobre novas tecnologias e tendências do mercado.
 
 ## Especialista em Python, Análise de Dados e Machine Learning
-![Python](https://imgs.search.brave.com/0FFnbywRfu8rgMGOdydKvEn0r4iDKORLxXOQN-LLDvU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9weXRob24t/aWNvbi0yNTZ4MjU0/LW03bjcyY2UzLnBu/Zw)
-![MachineLearning](https://imgs.search.brave.com/ZiwG1PAnKvbrrCAvs3PDry73eN2C_P_xOMRsQQVRc_A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8yMTcyLzIxNzI4/OTEucG5nP3NlbXQ9/YWlzX2h5YnJpZA)
 
 ## Competências
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
