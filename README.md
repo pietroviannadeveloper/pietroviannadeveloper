@@ -15,6 +15,7 @@
 ![MachineLearning](https://imgs.search.brave.com/ZiwG1PAnKvbrrCAvs3PDry73eN2C_P_xOMRsQQVRc_A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8yMTcyLzIxNzI4/OTEucG5nP3NlbXQ9/YWlzX2h5YnJpZA)
 
 ## Competências
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
