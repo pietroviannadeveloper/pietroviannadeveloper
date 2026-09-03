@@ -1,6 +1,6 @@
 # 👨‍💻 Pietro Vianna
 
-Estudante de **Engenharia de Software** com foco em **Desenvolvimento Full Stack, Inteligência Artificial, Automação, Análise de Dados e Cloud**.
+Analista de Sistemas e Estudante de **Engenharia de Software** com foco em **Desenvolvimento Full Stack, Inteligência Artificial, Automação, Análise de Dados e Cloud**.
 
 ---
 
