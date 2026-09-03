@@ -205,28 +205,11 @@ Analista de Sistemas e Estudante de **Engenharia de Software** com foco em **Des
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pietroviannadeveloper&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true" alt="Estatísticas do GitHub de Pietro">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietroviannadeveloper&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" alt="Linguagens mais usadas por Pietro">
-</p>
+## 🔥 Contribuições no GitHub
 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=pietroviannadeveloper&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt_BR" alt="Sequência de contribuições de Pietro">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pietroviannadeveloper">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pietroviannadeveloper&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Gráfico de atividade de Pietro">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pietroviannadeveloper">
-    <img src="https://github-profile-trophy.vercel.app/?username=pietroviannadeveloper&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=6" alt="Troféus do GitHub de Pietro">
   </a>
 </p>
 
