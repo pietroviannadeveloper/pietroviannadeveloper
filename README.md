@@ -93,15 +93,6 @@ Analista de Sistemas e Estudante de **Engenharia de Software** com foco em **Des
 
 ---
 
-## 🧠 IA Local
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
-![Open WebUI](https://img.shields.io/badge/Open_WebUI-000000?style=for-the-badge\&logo=openai\&logoColor=white)
-![Local LLM](https://img.shields.io/badge/Local_LLM-343541?style=for-the-badge\&logo=openai\&logoColor=white)
-![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-000000?style=for-the-badge\&logo=apple\&logoColor=white)
-
----
-
 ## 🔄 Automação & Orquestração
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
@@ -182,38 +173,13 @@ Analista de Sistemas e Estudante de **Engenharia de Software** com foco em **Des
 ![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-6C63FF?style=for-the-badge\&logo=openai\&logoColor=white)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
----
 
-## 📑 Documentos & Arquivos
 
-![Excel](https://img.shields.io/badge/XLSX-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![PDF](https://img.shields.io/badge/PDF-EC1C24?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white)
-![DOCX](https://img.shields.io/badge/DOCX-2B579A?style=for-the-badge\&logo=microsoftword\&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge\&logo=yaml\&logoColor=white)
-![XML](https://img.shields.io/badge/XML-767C52?style=for-the-badge\&logo=xml\&logoColor=white)
 
 ---
 
-## 🧪 Desenvolvimento com IA
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge\&logo=openai\&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
 
----
-
-## 🧰 Ambiente de Desenvolvimento
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
-![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
 
 ## 🎭 Design & Prototipação
 
