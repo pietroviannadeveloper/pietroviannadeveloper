@@ -1,4 +1,17 @@
 # 👨‍💻 Pietro Vianna
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Analista+de+Sistemas;Engenharia+de+Software;Full+Stack+Developer;Intelig%C3%AAncia+Artificial+%26+LLMs;Automa%C3%A7%C3%A3o+%26+Data+Analytics;Construindo+o+Oracle135+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pietroviannadeveloper&theme=tokyonight&hide_border=true)
+
+</div>
+
+</div>
 
 Analista de Sistemas e Estudante de **Engenharia de Software** com foco em **Desenvolvimento Full Stack, Inteligência Artificial, Automação, Análise de Dados e Cloud**.
 
@@ -200,6 +213,16 @@ Analista de Sistemas e Estudante de **Engenharia de Software** com foco em **Des
 
 ---
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietroviannadeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietroviannadeveloper&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
 ## 🏢 Experiência profissional
 
 Atualmente atuo na **Agência Nacional de Aviação Civil — ANAC**, em Brasília, com atividades relacionadas a dados, processos, indicadores e desenvolvimento de soluções internas.
@@ -226,6 +249,13 @@ Principais atividades:
 * Integração entre sistemas e ferramentas
 
 ---
+
+
+<div align="center">
+
+[![Pietro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pietroviannadeveloper&theme=tokyo-night&hide_border=true)](https://github.com/pietroviannadeveloper)
+
+</div>
 
 # 🤖 Oracle135
 
@@ -270,6 +300,13 @@ Plataforma interna voltada para **centralização de informações, automação 
 ![Client Server](https://img.shields.io/badge/Cliente--Servidor-009688?style=for-the-badge\&logo=serverfault\&logoColor=white)
 
 ---
+
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=pietroviannadeveloper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
 
 ## 📚 Atualmente aprofundando
 
