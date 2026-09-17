@@ -1,4 +1,7 @@
 # 👨‍💻 Pietro Vianna
+
+**[Conheça meu portfólio — projetos, experiência na ANAC e formação](./PORTFOLIO.md)**
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Analista+de+Sistemas;Engenharia+de+Software;Full+Stack+Developer;Intelig%C3%AAncia+Artificial+%26+LLMs;Automa%C3%A7%C3%A3o+%26+Data+Analytics;Construindo+o+Oracle135+%F0%9F%A4%96)](https://git.io/typing-svg)
